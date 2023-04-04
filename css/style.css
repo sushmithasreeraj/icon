@@ -1,0 +1,82 @@
+.firstcard{
+	border:10px solid 	#87CEEB;
+	width:300px;
+	height:500px;
+	margin-left:200px;
+	margin-top:150px;
+	
+}
+.imagesection img{
+	width:150px;
+	height:150px;
+	margin-left:65px;
+	margin-top:30px;
+	border-radius:100px;
+}
+.name{
+	text-align:center;
+	line-height:0.5;
+	font-family: 'Delicious Handrawn', cursive;
+font-family: 'Libre Franklin', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+}
+h1{
+	color:orange;
+}
+.maincontainer{
+	display:flex;
+}
+.content{
+	line-height:2;
+	text-align:center;
+}
+.secondcard{
+	margin-left:100px;
+	margin-top:200px;
+	border:10px solid #D3D3D3;
+	width:300px;
+	height:400px;
+}
+.box{
+	display:flex;
+}
+.news{
+	color:white;
+	background-color:#40E0D0;
+	margin:5px;
+	padding:10px;
+}
+.date{
+	float:left;
+	margin-left:150px;
+	
+}
+.jersey{
+	align-items:center;
+	margin-left:10px;
+
+}
+.thirdcard{
+	border:10px solid 	#D8BFD8;
+	height:380px;
+	width:250px;
+	margin-top:230px;
+	margin-left:100px;
+}
+.thirdcard img{
+	width:200px;
+	height:300px;
+    margin-left:25px;
+	margin-top:20px;
+}
+.thirdcard p{
+     color:gray;
+	 text-align:center;
+	 font-family: 'Delicious Handrawn', cursive;
+}
+.icon i{
+	padding:15px;
+	margin:10px;
+	color:red;
+}
